@@ -1,0 +1,72 @@
+/* CSS code for Resume page!
+Raymond Moya */
+
+body {
+  background-color: #eff1f4;
+}
+
+h1, h2, h3, p, li {
+  color: #000;
+  font-family: Calibri, Helvetica, Georgia;
+}
+
+h3 {
+  text-indent: 40px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.containerphotonav {
+  /*border: solid 2px #87ceeb;*/
+  width: 230px;
+  height: 750px;
+  float: left;
+}
+
+.containerbio {
+  /*border: solid 2px #87ceeb;*/
+  width: 900px;
+  height: 250px;
+  float: left;
+}
+
+.containeredu {
+  /*border: solid 2px #87ceeb;*/
+  width: 900px;
+  height: 200px;
+  float: left;
+}
+
+.containerexp {
+  /*border: solid 2px #87ceeb;*/
+  width: 900px;
+  height: 870px;
+  float: left;
+}
+
+.containerwri {
+  /*border: solid 2px #87ceeb;*/
+  width: 900px;
+  height: 715px;
+  float: left;
+
+}
+
+.containervol {
+  /*border: solid 2px #87ceeb;*/
+  width: 900px;
+  height: 205px;
+  float: left;
+}
